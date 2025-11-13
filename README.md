@@ -1,2 +1,6 @@
-# starbucks_menu_item_data
 Python data analysis
+<br>
+``Python`` | ``Pandas`` | ``Seaborn`` | ``Matplotlib`` | ``Excel``
+<br>
+<br>
+
