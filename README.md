@@ -4,3 +4,6 @@ Python data analysis
 <br>
 <br>
 
+Manipulating and analysizing Starbucks menu item data from csv files using Python
+
+
